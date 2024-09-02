@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: b7133786d9a98f545b474c0fcc8549c7
+  - enabled: 1
+    path: Assets/Scenes/Remake.unity
+    guid: 40cf52ad57c38d047b89aaf277b9c1c6
+  m_configObjects: {}
