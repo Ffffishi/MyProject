@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 364878199
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 70fac5adef0af6a73f76feaad51a6fd6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 70fac5adef0af6a73f76feaad51a6fd6
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/LuaTxt/PlayerCtrl.lua.txt
+Dependencies: []
